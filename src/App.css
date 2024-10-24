@@ -1,0 +1,6 @@
+/* write your css here */
+.gradient-bg {
+    background: linear-gradient(to right, #8c86f9, #5d98f7); /* Modify colors as needed */
+    min-height: 100vh; /* Ensures the gradient covers the full height */
+  }
+  
